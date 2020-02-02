@@ -1,0 +1,2 @@
+Python Module for Distance Metric Learning (pyDML)
+Documentation : https://pydml.readthedocs.io/en/latest/dml.html#module-dml.ldml
