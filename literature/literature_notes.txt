@@ -1,2 +1,23 @@
 Python Module for Distance Metric Learning (pyDML)
 Documentation : https://pydml.readthedocs.io/en/latest/dml.html#module-dml.ldml
+
+ITML: Information Theoretic Metric Learning:
+http://www.cs.utexas.edu/users/pjain/itml/
+ITML is a Matlab implementation of Information Theoretic Metric Learning algorithm. Metric learning involves finding a suitable metric for a given set of data-points with side-information regarding distances between few datapoints. ITML characterizes the metric using a Mahalanobis distance function and learns the associated parameters using Bregman's cyclic projection algorithm. 
+
+Source code for metric_learn.lmnn
+http://contrib.scikit-learn.org/metric-learn/_modules/metric_learn/lmnn.html
+
+
+
+https://pypi.org/project/PyLMNN/
+PyLMNN is an implementation of the Large Margin Nearest Neighbor algorithm for metric learning in pure python.
+
+PyLMNN :
+This implementation follows closely the original MATLAB code by Kilian Weinberger found at https://bitbucket.org/mlcircus/lmnn. This version solves the unconstrained optimisation problem and finds a linear transformation using L-BFGS as the backend optimizer.This package can also find optimal hyper-parameters for LMNN via Bayesian Optimization using the excellent GPyOpt package.
+
+Importance of Distance Metrics in Machine Learning Modelling :
+https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learning-modelling-e51395ffe60d
+
+Labelled Faces in the Wild dataset:
+http://vis-www.cs.umass.edu/lfw/#download
