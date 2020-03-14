@@ -21,3 +21,25 @@ https://towardsdatascience.com/importance-of-distance-metrics-in-machine-learnin
 
 Labelled Faces in the Wild dataset:
 http://vis-www.cs.umass.edu/lfw/#download
+
+---------------------------------------------------------------------------------------------------
+
+Matlab implementation of ROC-EMC classification for LBP, TPLBP, FPLBP, SIFT descriptors 
+https://talhassner.github.io/home/publication/2008_ECCV
+Paper : https://talhassner.github.io/home/projects/Patchlbp/WolfHassnerTaigman_ECCVW08.pdf
+
+
+Difference of Gaussian code :
+https://gist.github.com/leonidk/8798fdbf38db120b8536d25ea2f8c3b4
+
+----------------------------------------------------------------------------------
+
+PyDML Documentation : 
+Section 1.21 - Distance learning and classifier plots
+Section 1.22 - Tuning parameters
+
+What is Metric Learning (From sci-kit learn):
+http://contrib.scikit-learn.org/metric-learn/introduction.html
+
+Similarity and distance metric learning with applications to computer vision :
+http://researchers.lille.inria.fr/abellet/talks/metric_learning_tutorial_ECML_PKDD.pdf
